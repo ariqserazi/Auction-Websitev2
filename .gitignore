@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+frontend/dist/
+
+# Java / Gradle
+backend/.gradle/
+backend/build/
+
+# Env files
+.env
+.env.local
+backend/.env
+frontend/.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
